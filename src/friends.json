@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=asphalt-auto-automobile-170811.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?cs=srgb&dl=action-asphalt-auto-210019.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://images.pexels.com/photos/305070/pexels-photo-305070.jpeg?cs=srgb&dl=auto-automobile-automotive-305070.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://images.pexels.com/photos/1149137/pexels-photo-1149137.jpeg?cs=srgb&dl=4k-wallpaper-automobile-automotive-1149137.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://images.pexels.com/photos/919073/pexels-photo-919073.jpeg?cs=srgb&dl=auto-automobile-automotive-919073.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://images.pexels.com/photos/50704/car-race-ferrari-racing-car-pirelli-50704.jpeg?cs=srgb&dl=action-automobile-automotive-50704.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?cs=srgb&dl=automobile-automotive-car-112460.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://images.pexels.com/photos/981035/pexels-photo-981035.jpeg?cs=srgb&dl=action-american-car-asphalt-981035.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg?cs=srgb&dl=automobile-automotive-car-116675.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://images.pexels.com/photos/358070/pexels-photo-358070.jpeg?cs=srgb&dl=automobile-automotive-car-358070.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://images.pexels.com/photos/909907/pexels-photo-909907.jpeg?cs=srgb&dl=audi-automobile-car-909907.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://images.pexels.com/photos/70912/pexels-photo-70912.jpeg?cs=srgb&dl=automobiles-automotives-black-and-white-70912.jpg&fm=jpg",
+    "clicked": false
+  }
+]
